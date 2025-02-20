@@ -76,3 +76,8 @@ This system eliminates manual errors, improves efficiency, enhances **privacy**,
    ```bash
    https://github.com/SSHarshitha/E-billing-system.git
    cd online-electricity-billing
+2. Import the project into NetBeans.
+3. Set up the database:
+      Open MySQL Workbench.
+      Run the provided SQL schema to create necessary tables.
+4. Run the application through NetBeans.
